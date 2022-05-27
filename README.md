@@ -15,5 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻 目前负责 [Fair](https://github.com/wuba/fair) 框架的开发
+🧐 技术领域：Android、Flutter
 
+💻 目前在 58 负责 [Fair](https://github.com/wuba/fair) 框架的开发
+
+| 语雀  | 掘金  |
+| :-----:| :----: |
+| [点我](https://www.yuque.com/youyutech)  | [点我](https://juejin.cn/user/1556564193584039)  |
