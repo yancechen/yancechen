@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 💻 目前在 58 负责 [Fair](https://github.com/wuba/fair) 框架的开发
 
-| 语雀  | 掘金  |
+| 语雀  | 掘金  | 公众号 | 知识星球  |
 | :-----:| :----: |
-| [点我](https://www.yuque.com/youyutech)  | [点我](https://juejin.cn/user/1556564193584039)  |
+| [点我](https://www.yuque.com/youyutech)  | [点我](https://juejin.cn/user/1556564193584039)  | [点我](https://juejin.cn/user/1556564193584039)  |
+[点我](https://i.postimg.cc/XvT9nxm8/15525254852842-T2-7.jpg)  |
+
