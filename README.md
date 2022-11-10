@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 🪐 业余时间运营了一个免费的知识星球，没事儿可以来玩玩：
 
-<img src="https://user-images.githubusercontent.com/19757728/184048905-79aa4a33-e3f2-4d7a-b708-a78c3f4d0851.JPG" width="360px">
+<img src="https://user-images.githubusercontent.com/19757728/201013941-b5fa2b25-6db6-4654-99e7-6a4bfc51dfbc.JPG" width="360px">
