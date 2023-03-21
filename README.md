@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 
 💻 技术领域：Android、Flutter
 
-| 掘金  | 公众号 | 知识星球  |
-| :----: | :----: | :----: |
-| [点我](https://juejin.cn/user/1556564193584039)  | [点我](https://i.postimg.cc/3RPkY6x3/qrcode-for-gh-a99ae0999f5a-860.jpg)  |[点我](https://i.postimg.cc/XvT9nxm8/15525254852842-T2-7.jpg)  |
+掘金：[https://juejin.cn/user/1556564193584039](https://juejin.cn/user/1556564193584039) 
+
+公众号：
+
+![qrcode_for_gh_a99ae0999f5a_258](https://user-images.githubusercontent.com/19757728/226498380-aaf91397-5db5-4648-957b-bf8e44ae965a.jpeg)
 
 🪐 业余时间运营了一个免费的知识星球，没事儿可以来玩玩：
 
