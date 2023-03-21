@@ -15,14 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🧐 技术领域：Android、Flutter
+💻 技术领域：Android、Flutter
 
-💻 目前在 58 负责 [Fair](https://github.com/wuba/fair) 框架的开发
-
-| 语雀  | 掘金  | 公众号 | 知识星球  |
-| :-----:| :----: | :----: | :----: |
-| [点我](https://www.yuque.com/youyutech)  | [点我](https://juejin.cn/user/1556564193584039)  | [点我](https://i.postimg.cc/3RPkY6x3/qrcode-for-gh-a99ae0999f5a-860.jpg)  |[点我](https://i.postimg.cc/XvT9nxm8/15525254852842-T2-7.jpg)  |
+| 掘金  | 公众号 | 知识星球  |
+| :----: | :----: | :----: |
+| [点我](https://juejin.cn/user/1556564193584039)  | [点我](https://i.postimg.cc/3RPkY6x3/qrcode-for-gh-a99ae0999f5a-860.jpg)  |[点我](https://i.postimg.cc/XvT9nxm8/15525254852842-T2-7.jpg)  |
 
 🪐 业余时间运营了一个免费的知识星球，没事儿可以来玩玩：
 
-<img src="https://user-images.githubusercontent.com/19757728/201013941-b5fa2b25-6db6-4654-99e7-6a4bfc51dfbc.JPG" width="360px">
+<img src="https://user-images.githubusercontent.com/19757728/226497949-71a9cb1b-905d-4030-9a0c-281a88a53ac0.JPG" width="320px">
