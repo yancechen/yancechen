@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻 技术领域：Android、Flutter
+💻 技术领域：Android、Flutter、鸿蒙
 
 掘金：[https://juejin.cn/user/1556564193584039](https://juejin.cn/user/1556564193584039) 
 
